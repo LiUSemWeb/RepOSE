@@ -1,4 +1,4 @@
-# RepOse
+# RepOSE
 RepOse is a tool for repairing wrong axioms in an ontology.
 
 # File list
